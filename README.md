@@ -1,0 +1,1 @@
+# fin-array-thermal-analysis-ansys
